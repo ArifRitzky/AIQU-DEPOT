@@ -6,7 +6,7 @@ const GAJI_ABI_PER_ITEM = 1000;
 const GAJI_BILA_PER_ITEM = 2000;
 
 // ⚠️ WAJIB GANTI DENGAN LINK KAMU:
-const scriptURL = 'https://script.google.com/macros/s/AKfycbwvVSi2FrACWtnnBMYgRVFCAQ20q1h2RP0k94aSd4UtTKleFcZEjvciyaxGQXmpVMwwjg/exec';
+const scriptURL = 'https://script.google.com/macros/s/AKfycbzuzgKM47RtLsh6WoI8KpWGfNKuWrUz0nZshQ9ek7jQ0M0p0prrmp4cVNQFvz8jyQqe/exec';
 
 // --- 2. NAVIGASI, GEMBOK PIN, & FITUR SAPU BERSIH ---
 const navLinks = document.querySelectorAll('.nav-link');
@@ -210,4 +210,5 @@ document.getElementById('btn-tarik-laporan').addEventListener('click', function(
 
             document.getElementById('hasil-laporan').style.display = 'block';
         }).catch(err => { alert('Gagal narik data!'); btn.innerHTML = 'Lihat Laporan 🎀'; btn.disabled = false; });
+
 });
