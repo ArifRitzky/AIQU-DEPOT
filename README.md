@@ -6,7 +6,7 @@
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ## Deskripsi Proyek
-**AIQU Depot** adalah sebuah aplikasi kasir (*Point of Sale*) dan sistem manajemen keuangan berbasis web yang dirancang khusus untuk operasional bisnis depot air isi ulang. Aplikasi ini dibangun untuk memecahkan masalah pencatatan manual, memberikan transparansi laporan kepada *Owner*, sekaligus menjaga kerahasiaan data internal (seperti gaji karyawan).
+**AIQU Depot** adalah sebuah aplikasi kasir (*Point of Sale*) dan sistem manajemen keuangan berbasis web yang dirancang khusus untuk operasional bisnis depot air isi ulang. Aplikasi ini dibangun untuk memecahkan masalah pencatatan manual, memberikan transparansi laporan kepada *Owner*, sekaligus menjaga kerahasiaann data internal (seperti gaji karyawan).
 
 Sistem ini sepenuhnya bersifat *serverless* pada sisi *backend*, memanfaatkan **Google Sheets** dan **Google Apps Script** sebagai *database* dan API, sehingga sangat ringan, efisien, dan gratis untuk bisnis skala kecil (UMKM).
 
